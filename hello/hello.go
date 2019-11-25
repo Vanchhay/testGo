@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse("!oG ,buhtiG opeR etavirP"))
+	fmt.Println(stringutil.Reverse("!oG ,buhtiG opeR etavirP test1"))
 }
